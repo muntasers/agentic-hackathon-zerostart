@@ -1,0 +1,13 @@
+project_id = "dhfqllktmlbufhqersap"
+
+[functions.generate-study-plan]
+verify_jwt = false
+
+[functions.explain-concept]
+verify_jwt = false
+
+[functions.ai-counselor]
+verify_jwt = false
+
+[functions.text-to-speech]
+verify_jwt = false
