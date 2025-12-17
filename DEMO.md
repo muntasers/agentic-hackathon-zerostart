@@ -19,9 +19,13 @@ PLEASE DO NOT UPLOAD RAW VIDOE FILES. These submissions will not be reviewed.
 
 ### Timestamps
 
-- **00:00–00:30** — Introduction & setup  
-- **00:30–01:30** — User input → Planning step  
-- **01:30–02:30** — Tool calls & memory retrieval  
-- **02:30–03:30** — Final output & edge-case handling
+- **00:53–01:40** — Introduction & setup  
+- **01:50–02:30** — User input → Study Plan  
+- **02:30–02:55** — Pomodoro Timer Tool  
+- **02:55–03:05** — Dashboard view  
+- **03:05–03:48** — AI Counsellor  
+- **03:50–04:30** — Group Study interface  
+- **04:30–05:43** — Video Summarizer and explainer  
+- **05:43–06:10** — Internationalization, multi language support and audio interfaces.
 
-- Vidoes longer than 5 minutes may not be reviewd. 
+- Please ignore the first 1 minute as it was demo'd live and contains the setup portion. 
