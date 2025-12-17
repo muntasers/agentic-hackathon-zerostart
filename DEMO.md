@@ -15,7 +15,7 @@ Please record a 3–5 minute walkthrough showing:
 # [Youtube Link](https://youtu.be/vYvJDUc4Pds?si=6guwrkXDpUaynIZ7)
 
 
-PLEASE DO NOT UPLOAD RAW VIDOE FILES. These submissions will not be reviewed.
+Please put any questions in the comment section.
 
 ### Timestamps
 
