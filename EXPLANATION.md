@@ -261,8 +261,3 @@ curl -X POST ${SUPABASE_URL}/functions/v1/generate-study-plan \
 - **State management**: React context may need optimization for large datasets
 
 ---
-
-
-
-Add Data Flow Diagram
-Add Sequence Diagram
